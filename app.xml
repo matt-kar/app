@@ -1,11 +1,11 @@
 <app>
  <id>gj8dl19d01</id>
- <name>Currency Converter</name>
- <provider>oanda</provider>
- <description>Currency Converter</description>
+ <name>Sample App</name>
+ <provider>google</provider>
+ <description>Sample App</description>
  <extensionpoint>
  <location>CLIENT_VIEW</location>
- <label>Currency Converter</label>
- <url>https://www.oanda.com/currency-converter/en/</url>
+ <label>Sample App</label>
+ <url>https://www.google.com/</url>
  </extensionpoint>
 </app>
