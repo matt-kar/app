@@ -6,6 +6,6 @@
  <extensionpoint>
  <location>CLIENT_VIEW</location>
  <label>XE Exchange Tool</label>
- <url>https://google.com/</url>
+ <url>https://www.xe.com/currencyconverter</url>
  </extensionpoint>
 </app>
