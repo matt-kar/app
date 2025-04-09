@@ -6,6 +6,6 @@
  <extensionpoint>
  <location>CLIENT_VIEW</location>
  <label>Currency Converter</label>
- <url>https://www.oanda.com/currency-converter/en/?from=EUR&to=USD&amount=1</url>
+ <url>https://www.oanda.com/currency-converter/en/<url>
  </extensionpoint>
 </app>
