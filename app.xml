@@ -6,6 +6,6 @@
  <extensionpoint>
  <location>CLIENT_VIEW</location>
  <label>XE Exchange Tool</label>
- <url>https://xe.com/</url>
+ <url>https://google.com/</url>
  </extensionpoint>
 </app>
