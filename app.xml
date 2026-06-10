@@ -6,6 +6,6 @@
  <extensionpoint>
  <location>CLIENT_VIEW</location>
  <label>Wiki</label>
- <url>https://en.wikipedia.org/wiki/Main_Page</url>
+ <url>https://en.wikipedia.org/wiki</url>
  </extensionpoint>
 </app>
